@@ -34,7 +34,7 @@ A three-page Power BI dashboard analysing FIFA Men's World Cup history, team per
 - Knockout match outcomes were analysed separately from group-stage outcomes.
 
 ## Data Source
-**Source:** [Add the original dataset name and URL here.]
+**Source:** Maven Analytics: https://mavenanalytics.io/data-playground/world-cup
 
 ## Limitations
 This is a historical descriptive analysis. Differences between champions and other teams do not establish causation. Historical team names and tournament formats may differ across editions.
