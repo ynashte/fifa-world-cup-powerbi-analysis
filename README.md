@@ -8,7 +8,7 @@ The project uses Power BI, DAX and Power Query to transform historical football 
 
 ### Page 1 — Tournament Overview (1930–2022)
 
-![Tournament Overview](screenshots/Page 1.png)
+![Tournament Overview](screenshots/Page1.png)
 
 Highlights:
 - World Cup editions, host countries and title-winning nations.
@@ -18,7 +18,7 @@ Highlights:
 
 ### Page 2 — Match and Team Analysis (1930–2018)
 
-![Match and Team Analysis](screenshots/Page 2.png)
+![Match and Team Analysis](screenshots/Page2.png)
 
 Highlights:
 - Team win percentages, with a minimum-match threshold.
@@ -28,7 +28,7 @@ Highlights:
 
 ### Page 3 — Key Findings (1930–2018)
 
-![Key Findings](screenshots/Page 3.png)
+![Key Findings](screenshots/Page3.png)
 
 Highlights:
 - Goals scored and conceded per match by tournament champions versus other teams.
